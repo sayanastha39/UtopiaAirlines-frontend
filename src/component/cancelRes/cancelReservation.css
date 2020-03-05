@@ -1,0 +1,26 @@
+.labelStyle {
+    margin-left: 250px;
+    font-size:20px;
+    color: white;
+    padding-right: 50px;
+    display: inline-block;
+    text-align: right;
+    width: 200px;
+    
+  };
+
+  .custom-form-container {
+    /* The Magic */
+    background-size: cover;
+  
+    background-color: rgba(0,0,0, 0.4);
+    margin-top: 50px;
+    margin: auto;
+    vertical-align: middle;
+    height: auto;
+}
+
+.custom-form-container {
+    padding: 30px 60px;
+    
+}
